@@ -1,4 +1,4 @@
-count	title	created	sub_id	oc	nsfw	permalink	score	subreddit	ratio_upvotes	url	num_comments	flair
+title	created	sub_id	oc	nsfw	permalink	score	subreddit	ratio_upvotes	url	num_comments	flair
 Keemstar in drive to survive ?!?	1627070665.0	oqablj	False	False	/r/formula1/comments/oqablj/keemstar_in_drive_to_survive/	0	formula1	0.29	https://i.redd.it/567kf1rwq0d71.jpg	2	Off-Topic
 Is the new F1 game worth it?	1627070527.0	oqa9yg	False	False	/r/formula1/comments/oqa9yg/is_the_new_f1_game_worth_it/	0	formula1	0.14	https://www.reddit.com/r/formula1/comments/oqa9yg/is_the_new_f1_game_worth_it/	6	Discussion
 Interesting discussion on Beyond Victory podcast	1627070069.0	oqa4d5	False	False	/r/formula1/comments/oqa4d5/interesting_discussion_on_beyond_victory_podcast/	0	formula1	0.45	https://www.reddit.com/r/formula1/comments/oqa4d5/interesting_discussion_on_beyond_victory_podcast/	5	Discussion
