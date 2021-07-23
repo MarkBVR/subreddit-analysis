@@ -1,3 +1,4 @@
+# Enter your own credentials here
 REDDIT_USERNAME = 'Username'
 REDDIT_PASSWORD = 'Password'
 CLIENT_ID = 'ClientID'
