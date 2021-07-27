@@ -1,2 +1,2 @@
 # subreddit-analysis
-Track and analyze submissions in a subreddit over a day.
+Practice using API's to request and analyze submissions in the r/formula1.
